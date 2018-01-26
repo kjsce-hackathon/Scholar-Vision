@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -34,6 +33,7 @@
 					<li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
 				</ul> -->
 			</div>
+
 			<div class="col-md-4 top-header-agile-left">
 				<ul class="num-w3ls">
 					<!-- <li><i class="fa fa-phone" aria-hidden="true"></i></li> -->
@@ -54,6 +54,7 @@
 					</div>
 			
 			<div class="clearfix"></div>
+
 		</div>
 
 		<div class="container">
@@ -116,8 +117,9 @@
 							</li>
 						</ul>
 					</div>
+				<a href="../Signup/register.php" class="button-w3layouts hvr-rectangle-out" style="margin-right: 30px">Register</a>
+				<a href="../Signin/login.php" class="button-w3layouts hvr-rectangle-out" style="margin-right: 30px" >Login</a>
 				</section>
-						
 			</div>			
 		</div>
 	</div>
@@ -153,9 +155,9 @@
 			<div class="col-md-6 col-sm-6 gallery-grids agileits w3layouts gallery-grids2 wow slideInRight">
 				<h2 class="tittle-agileits-w3layouts">About Our Scholar Vision</h2>
 				<h5></h5>
-				<p class="para-w3-agile">Scholar Vision Is Te</p>
-				<p class="para-w3-agile">conditum vitae enim. Quisque molestie consectetur urna quis scelerisque. Morbi at lectus sapien. Donec fgiat arcu in mi placerat ullamcorper.</p>
-				<a href="single.html" class="button-w3layouts hvr-rectangle-out">know more</a>
+				<p class="para-w3-agile">Scholar Vision Is The</p>
+				<p class="para-w3-agile">Automated Writeup and Grading System. As the name suggests it is automated system to make the write-ups and grading system automatically.The project will ease and speed up the process of experiments write-ups for the students as well as Faculty.Developed by CodeFighters.</p>
+				<a href="#" class="button-w3layouts hvr-rectangle-out">Know more</a>
 			</div>
 			<div class="clearfix"></div>
 			
@@ -325,7 +327,7 @@
 			<div class="footer-row w3layouts-agile">
 				<div class="col-md-4 footer-grids w3l-agileits">
 					<h6><a href="index.html">Scholar Vision</a></h6>
-					<p class="footer-one-w3ls">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pulvinar tellus sed mauvehicula tempor. </p>
+					<p class="footer-one-w3ls">Automated Writeup and Grading System. As the name suggests it is automated system to make the write-ups and grading system automatically. </p>
 					<div class="top-header-agile-right">
 						<ul>
 							<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -336,6 +338,7 @@
 					</div>
 					<div class="clearfix"></div>
 				</div>
+				<!--
 				<div class="col-md-2 footer-grids w3l-agileits">
 					<h3>Footer Menu</h3>					
 					<ul class="b-nav">
@@ -345,16 +348,17 @@
 						<li><a href="contact.html">Contact</a></li>
 					</ul>
 				</div>
+			-->
 				<div class="col-md-3 footer-grids w3l-agileits">
 					<h3>Contact Info</h3>
-					<p>Virginia, USA</p>
-					<p>+0 097 338 004</p>
-					<p>El Montee RV, Sterling USA</p>
-					<p><a href="mailto:info@example.com">mail@example.com</a></p>
+					<p>Panvel, Maharastra</p>
+					<p>+91 7738545542</p>
+					<p>AIKTC Comp. Engg, Panvel Maharastra</p>
+					<p><a href="mailto:gadmoin@gmail.com">gadmoin@gmail.com</a></p>
 				</div>
 				<div class="col-md-3 footer-grids w3l-agileits">	
 					<h3>Newsletter</h3>
-					<p>It was popularised in the 1960s with the release Ipsum. <p>
+					<p>Post us to your work. Heartly Wel-come to your letters . <p>
 					 <form action="#" method="post">		 
 							<input type="email" class="text" required="" />
 							<input type="submit" value="Go" />					 
@@ -436,7 +440,7 @@
 
 
 <!--search-bar-->
-		<script src="js/main.js"></script>	
+		<!-- <script src="js/main.js"></script> -->	
 <!--//search-bar-->
 
 
